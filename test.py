@@ -2,3 +2,6 @@
 
 a = 'Marie'
 print a
+
+b = 'test'
+print b
